@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Which language is used for Android development?",
+        "options": ["Python", "Java", "C++", "PHP"],
+        "answer": "2"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Processor Unity", "Central Program Utility"],
+        "answer": "1"
+    },
+    {
+        "question": "Which of these is a Python web framework?",
+        "options": ["Django", "Spring", "Ruby on Rails", "Laravel"],
+        "answer": "1"
+    }
+]
